@@ -1,0 +1,26 @@
+/* div{
+    background-color: brown;
+}
+p{
+   background-color: yellow; 
+} */
+
+/* ---------------------------------------------------------------- */
+
+div{
+    background-color: yellow;
+}
+
+ form{
+    background-color: rgb(185, 123, 123);
+} 
+/*  input and button do not inherit properties from their parents*/
+input{
+    background-color: inherit; 
+    color: brown;
+}
+button{
+    background-color: inherit;
+    border: black;
+   
+}  
